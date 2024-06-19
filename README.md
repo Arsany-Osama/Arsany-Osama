@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arsany-osama-446942264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsany-osama-446942264" height="30" width="40" /></a>
 <a href="https://fb.com/arsany.osama.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsany.osama.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arstoincrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arstoincrypto" height="30" width="40" /></a>
+<a href="https://youtube.com/@arstoincrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arstoincrypto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
