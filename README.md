@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arsany Osama</h1>
+<h1 align="center">Hi 👋,</br> I'm Arsany Osama</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsany-osama&label=Profile%20views&color=0e75b6&style=flat" alt="arsany-osama" /> </p>
