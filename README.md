@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsany-osama" alt="arsany-osama" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Projects**
+- 🔭 I’m currently working on **Monile Projects**
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **arsanyosama3@gmail.com**
 
