@@ -1,28 +1,146 @@
-<h1 align="center">Hi 👋</br> I'm Arsany Osama</h1>
-<h3 align="center">Computer Science Student</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arsany-osama&label=Profile%20views&color=0e75b6&style=flat" alt="arsany-osama" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Arsany%20Osama&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20Security&descSize=19&descAlignY=58" alt="Arsany Osama"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsany-osama" alt="arsany-osama" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Software+Engineer+%40+Pharos+Solutions;Full-Stack+%7C+Backend+%7C+Frontend;Cloud+and+DevOps+%7C+AWS;Security+%7C+Red+and+Blue+Team+mindset;I+build+things+that+ship" alt="Typing intro"/>
 
-- 🔭 I’m currently working on **Mobile Projects**
+<br/>
 
-- 🌱 I’m currently learning **Flutter**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsany-osama-446942264)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsanyosama3@gmail.com)
+[![UniAct](https://img.shields.io/badge/UniAct-Live%20Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://uniact.website)
 
-- 📫 How to reach me **arsanyosama3@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arsany-osama-446942264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsany-osama-446942264" height="30" width="40" /></a>
-<a href="https://fb.com/arsany.osama.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arsany.osama.1" height="30" width="40" /></a>
-<a href="https://youtube.com/@arstoincrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arstoincrypto" height="30" width="40" /></a>
-</p>
+**Computer Science graduate, Cybersecurity track.**<br/>
+**Full-time Software Engineer shipping production code, and builder of my own SaaS.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsany-osama&show_icons=true&locale=en&layout=compact" alt="arsany-osama" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsany-osama&show_icons=true&locale=en" alt="arsany-osama" /></p>
+## ⚡ About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsany-osama&" alt="arsany-osama" /></p>
+I like building software that real people use. At **Pharos Solutions** I work on a live multi-tenant school platform, fixing real production problems and shipping features across backend and frontend. Outside work I designed, built and deployed **UniAct**, a SaaS platform for universities, from the architecture to the cloud deployment.
+
+My degree is in cybersecurity, so I think about access control, data handling and failure modes in everything I build. I'm comfortable anywhere in the software stack, and curious about all of it.
+
+<br/>
+
+## 🧭 What I do
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+<h3>🧱<br/>Software</h3>
+Backend APIs, full-stack web apps, cross-platform mobile with Flutter, multi-tenant systems.
+</td>
+<td width="25%" valign="top" align="center">
+<h3>☁️<br/>Cloud and DevOps</h3>
+AWS (4 Academy certifications), CI/CD with GitHub Actions, Docker, Linux administration on RHEL.
+</td>
+<td width="25%" valign="top" align="center">
+<h3>🛡️<br/>Security</h3>
+IAM, RBAC, JWT and OAuth 2.0, Linux hardening, secure application design. Interested in both offense and defense.
+</td>
+<td width="25%" valign="top" align="center">
+<h3>🔧<br/>Reliability</h3>
+Debugging production issues, data integrity, background jobs, real-time sync, maintainable code.
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured work
+
+<table>
+<tr>
+<td colspan="2" valign="top">
+<h3><a href="https://github.com/UniAct">UniAct</a> &nbsp;·&nbsp; <a href="https://uniact.website">Live at uniact.website</a></h3>
+A multi-tenant SaaS platform for universities. A central control plane provisions tenants, and every university runs isolated on its own subdomain. Includes an <b>offline-first QR attendance system</b> (scans cached in SQLite, auto-synced when back online), RBAC, background jobs, and AI-powered learning groups that auto-enroll students.<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,prisma,react,flutter,githubactions,vercel" alt="UniAct stack"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arsany-Osama/secure-distributed-system-observability-dashboard">Secure Observability Dashboard</a></h3>
+Real-time distributed system template: Nginx with TLS and rate limiting, JWT auth, RabbitMQ worker queues and PostgreSQL audit tracing. One command to run.<br/><br/>
+<img src="https://skillicons.dev/icons?i=nginx,rabbitmq,postgres,nodejs,docker" alt="stack"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arsany-Osama/UniSecure-IAM">UniSecure-IAM</a></h3>
+Open-source identity and access management platform on Keycloak: secure authentication, RBAC, user provisioning and admin automation.<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,express,react,postgres" alt="stack"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arsany-Osama/Q-and-A-system">Q&amp;A Community Platform</a></h3>
+Reddit-style app with Auth0 and Okta identity integration, admin moderation panel, reported-content queue, RBAC and server-side input sanitization.<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase" alt="stack"/>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/Arsany-Osama/Real-time-chatting-with-authentication">Real-time Chat with Auth</a></h3>
+Rails app with Devise authentication, CanCanCan authorization, WebSockets for live messaging and Google OAuth.<br/><br/>
+<img src="https://skillicons.dev/icons?i=ruby,rails,postgres" alt="stack"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Toolbox
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,ruby,php,dart,java,cpp" alt="languages"/>
+
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,rails,react,flutter,flask" alt="frameworks"/>
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,prisma" alt="databases"/>
+
+**Cloud, DevOps and Tools**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,vercel,nginx,rabbitmq" alt="devops"/>
+
+**Auth and Security**<br/>
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-1f4e79?style=flat-square)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🛣️ Journey
+
+| When | What |
+|:--|:--|
+| **2026** | Graduated with Honors, moved to full-time Software Engineer at Pharos Solutions, UniAct live |
+| **2025** | Joined Pharos Solutions as an intern, then part-time, working on a multi-tenant platform in Ruby on Rails |
+| **2024** | Linux System Administration internship at ITI: security hardening on RHEL nodes · AWS Academy Foundations |
+| **2023** | Linux Administration I & II (ITI) · Data Structures |
+| **2022** | Started B.Sc. Computer Science (Cybersecurity track) · ECPC competitive programming |
+
+**AWS Academy:** Foundations (2024) · Security (2025) · Architecture (2026) · Developing (2026)
+
+<br/>
+
+## 📫 Let's connect
+
+Open to conversations about software engineering, cloud and security roles.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsany--osama-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsany-osama-446942264)
+[![Email](https://img.shields.io/badge/arsanyosama3%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arsanyosama3@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" alt=""/>
+
+</div>
