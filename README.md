@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=230&section=header&text=Arsany%20Osama&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20Security&descSize=19&descAlignY=58" alt="Arsany Osama"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Software+Engineer+%40+Pharos+Solutions;Full-Stack+%7C+Backend+%7C+Frontend;Cloud+and+DevOps+%7C+AWS;Security+%7C+Red+and+Blue+Team+mindset;I+build+things+that+ship" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Frontend;Cloud+and+DevOps+%7C+AWS;Security+%7C+Red+and+Blue+Team+mindset;I+build+things+that+ship" alt="Typing intro"/>
 
 <br/>
 
@@ -122,7 +122,7 @@ Rails app with Devise authentication, CanCanCan authorization, WebSockets for li
 
 | When | What |
 |:--|:--|
-| **2026** | Graduated with Honors, moved to full-time Software Engineer at Pharos Solutions, UniAct live |
+| **2026** | Graduated with Honors, moved to full-time Software Engineer|
 | **2025** | Joined Pharos Solutions as an intern, then part-time, working on a multi-tenant platform in Ruby on Rails |
 | **2024** | Linux System Administration internship at ITI: security hardening on RHEL nodes · AWS Academy Foundations |
 | **2023** | Linux Administration I & II (ITI) · Data Structures |
